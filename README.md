@@ -1,4 +1,4 @@
-This is just a practice project intended more thuroughly understand a new tech stack
+This is just a practice project intended more thoroughly understand a new tech stack
 
 The stack is Svelte + Tailwind and the Web-Api uses FSharp + Giraffe. For the Database I used SQLite
 
