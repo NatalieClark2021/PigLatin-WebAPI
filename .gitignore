@@ -1,0 +1,18 @@
+# Ignore node_modules (Frontend)
+node_modules/
+dist/
+
+# Ignore compiled files (Backend)
+bin/
+obj/
+
+# Ignore SQLite database files
+*.db
+*.db-wal
+*.db-shm
+
+# Ignore environment variables (Secrets)
+.env
+
+# Ignore system/macOS files
+.DS_Store
